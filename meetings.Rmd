@@ -1,0 +1,31 @@
+---
+output: html_document
+---
+<br>  
+<br>  
+
+## 2017 Meetings
+
+* January 2017: Kickoff Meeting for Year, General Discussion, Trends in Statistical Papers Using Google Scholar - Matt Gillam
+
+## 2016 Meetings
+
+* [November 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_11_November/meetingMinutes.Rmd): Predicting NBA Games using SQL R Services - Ryan Wade
+* [October 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_10_October/meetingMinutes.Rmd): New R tools for workflow management, testing, and reproducibility - Will Landau
+* September 2016: Intro to R Programming at IUPUI - Fred Kukral
+* [August 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_08_August/meetingMinutes.Rmd): Presentation about feather - Matt Gillam
+* [July 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_07_July/meetingMinutes.Rmd): UseR 2016 Recap - Adam Simkowski
+* [June 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_06_June/meetingMinutes.Rmd): Leveraging Weather Data in R - Adam Simkowski
+* [May 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_05_May/meetingMinutes.Rmd): Big Molecules Meets Big Data: Predicting Protein Tertiary Structure from Combinatorial Chemistry Data - Stan Siranovich
+* [April 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_04_April/meetingMinutes.Rmd): Using R and Power BI to Analyze US Trade Balance with Other Countries - Ryan Wade
+* [March 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_03_March/meetingMinutes.Rmd): System Configuration and Development of R in Jupyter Notebook
+* [February 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_02_February/meetingMinutes.Rmd): Book overview: Mastering Machine Learning with R - Cory Lesmeister
+* [January 2016](https://github.com/IndyUseR/Meetings/blob/master/2016_01_January/meetingMinutes.Rmd): Webscraping with rvest package - Shankar Vaidyaraman
+
+## 2015 Meetings
+
+* [November 2015](https://github.com/IndyUseR/Meetings/blob/master/2015_11_November/meetingMinutes.Rmd): Typical Excel Tasks in R - Stuart Ward, Demo of a Shiny App that Analyzes Sentiments and Produces Wordcloud of Sentiments - J. D. Freeman
+* [October 2015](https://github.com/IndyUseR/Meetings/blob/master/2015_10_October/meetingMinutes.Rmd): Big Data Processing with Apache Spark and R - Hao Lin
+* [September 2015](https://github.com/IndyUseR/Meetings/blob/master/2015_09_September/meetingMinutes.Rmd): reshape and reshape2 packages - Adrian Katschke
+* [August 2015](https://github.com/IndyUseR/Meetings/blob/master/2015_08_August/meetingMinutes.Rmd): 3D Interactive Scatter Plots - J. D. Freeman, R Markdown - Richard Layton
+* [July 2015](https://github.com/IndyUseR/Meetings/blob/master/2015_07_July/meetingMinutes.Rmd): Report on UseR 2015 - Richard Layton, Presentation on forecasting with forecast package - Ben Staiger

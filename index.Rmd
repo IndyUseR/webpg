@@ -1,0 +1,37 @@
+---
+output: html_document
+---
+
+<style>
+  .jumbotron{
+    background: #F0F0F0  url("images/indianapolis.jpg") right no-repeat;
+    }
+</style>
+
+</div>
+<div class="jumbotron">
+<div class="container">
+<h1>IndyUseR Group</h1>
+<img src='images/Rlogo.png'>
+</div>
+</div>
+<div>
+
+<div class="container">
+<div class="col-md-4">
+<h2>Meetup Logistics</h2>
+<p>We have a <a href="https://www.meetup.com/Indy-useR-Group/">IndyUseR meetup page</a> which we use for scheduling meetups. The meetup site
+has meeting time and locations and we also use the meetup site for communications<p>
+</div>  
+<div class="col-md-4">
+<h2>Meeting Content</h2>
+<p> Meeting notes and presentation links are in github page and can be accessed through the meetings tab at the top</p>
+</div>
+<div class="col-md-4">
+<h2>Suggestions</h2>
+<p> If you want to provide suggestions on topics for the meetup or any other suggestions, please use either the discussion forum in the <a href="https://www.meetup.com/Indy-useR-Group/">meetup page</a> or file an issue in the <a href="https://github.com/IndyUseR/Meetings/issues">github page</a>.</p>
+</div>
+
+
+<h4>Credits</h4>
+<p>This site is created using <a href="http://rmarkdown.rstudio.com/rmarkdown_websites.html#overview">RMarkdown for websites</a></p>
