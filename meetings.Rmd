@@ -5,7 +5,7 @@ output: html_document
 <br>  
 
 ## 2017 Meetings
-
+* [February 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_02_February/2017_02_MeetingMinutes.Rmd): FREDcast, R Trivia, Webscraping and htmlWidgets
 * [January 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_01_January/2017_01_MeetingMinutes.Rmd): Kickoff Meeting for Year, General Discussion, Trends in Statistical Papers Using Google Scholar - Matt Gillam
 
 ## 2016 Meetings
