@@ -5,6 +5,9 @@ output: html_document
 <br>  
 
 ## 2017 Meetings
+* [May 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_05_May/2017_05_MeetingMinutes.Rmd): Overview of Julia by a R User
+* [April 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_04_April/2017_04_MeetingMinutes.Rmd): Cybersecurity Discussion
+* [March 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_03_March/2017_03_MeetingMinutes.Rmd): FREDcast, R Trivia, General Discussion
 * [February 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_02_February/2017_02_MeetingMinutes.Rmd): FREDcast, R Trivia, Webscraping and htmlWidgets
 * [January 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_01_January/2017_01_MeetingMinutes.Rmd): Kickoff Meeting for Year, General Discussion, Trends in Statistical Papers Using Google Scholar - Matt Gillam
 
