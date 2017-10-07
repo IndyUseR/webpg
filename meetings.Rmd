@@ -5,6 +5,10 @@ output: html_document
 <br>  
 
 ## 2017 Meetings
+* [September 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_09_September/2017_09_MeetingMinutes.Rmd): xploring UN General Debates Kaggle Dataset with R NLP Tools
+* [August 2017](https://indyuser.github.io/webpg/slides/2017_08_August/drake.html#/): Reproducibility and high-performance computing with drake
+* July 2017: R in the development and analysis of forensic credibility assessment tests
+* June 2017: Exploring Simmer - An R Package for Discrete Event Simulation
 * [May 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_05_May/2017_05_MeetingMinutes.Rmd): Overview of Julia by a R User
 * [April 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_04_April/2017_04_MeetingMinutes.Rmd): Cybersecurity Discussion
 * [March 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_03_March/2017_03_MeetingMinutes.Rmd): FREDcast, R Trivia, General Discussion
