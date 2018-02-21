@@ -4,6 +4,10 @@ output: html_document
 <br>  
 <br>  
 
+## 2018 Meetings
+
+* [February 2018](https://github.com/IndyUseR/Meetings/tree/master/2018_02_February): [RStudio::conf(2018)](https://indyuser.github.io/webpg/slides/2018_02_February/slides.html#/) and [tidy evaluation](https://indyuser.github.io/webpg/slides/2018_02_February/tidyeval.R).
+
 ## 2017 Meetings
 * [September 2017](https://github.com/IndyUseR/Meetings/blob/master/2017_09_September/2017_09_MeetingMinutes.Rmd): xploring UN General Debates Kaggle Dataset with R NLP Tools
 * [August 2017](https://indyuser.github.io/webpg/slides/2017_08_August/drake.html#/): Reproducibility and high-performance computing with drake

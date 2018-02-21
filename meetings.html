@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -200,6 +202,12 @@ $(document).ready(function () {
 <p><br><br />
 <br></p>
 <div id="meetings" class="section level2">
+<h2>2018 Meetings</h2>
+<ul>
+<li><a href="https://github.com/IndyUseR/Meetings/tree/master/2018_02_February">February 2018</a>: <a href="https://indyuser.github.io/webpg/slides/2018_02_February/slides.html#/">RStudio::conf(2018)</a> and <a href="https://indyuser.github.io/webpg/slides/2018_02_February/tidyeval.R">tidy evaluation</a>.</li>
+</ul>
+</div>
+<div id="meetings-1" class="section level2">
 <h2>2017 Meetings</h2>
 <ul>
 <li><a href="https://github.com/IndyUseR/Meetings/blob/master/2017_09_September/2017_09_MeetingMinutes.Rmd">September 2017</a>: xploring UN General Debates Kaggle Dataset with R NLP Tools</li>
@@ -213,7 +221,7 @@ $(document).ready(function () {
 <li><a href="https://github.com/IndyUseR/Meetings/blob/master/2017_01_January/2017_01_MeetingMinutes.Rmd">January 2017</a>: Kickoff Meeting for Year, General Discussion, Trends in Statistical Papers Using Google Scholar - Matt Gillam</li>
 </ul>
 </div>
-<div id="meetings-1" class="section level2">
+<div id="meetings-2" class="section level2">
 <h2>2016 Meetings</h2>
 <ul>
 <li><a href="https://github.com/IndyUseR/Meetings/blob/master/2016_11_November/meetingMinutes.Rmd">November 2016</a>: Predicting NBA Games using SQL R Services - Ryan Wade</li>
@@ -229,7 +237,7 @@ $(document).ready(function () {
 <li><a href="https://github.com/IndyUseR/Meetings/blob/master/2016_01_January/meetingMinutes.Rmd">January 2016</a>: Webscraping with rvest package - Shankar Vaidyaraman</li>
 </ul>
 </div>
-<div id="meetings-2" class="section level2">
+<div id="meetings-3" class="section level2">
 <h2>2015 Meetings</h2>
 <ul>
 <li><a href="https://github.com/IndyUseR/Meetings/blob/master/2015_11_November/meetingMinutes.Rmd">November 2015</a>: Typical Excel Tasks in R - Stuart Ward, Demo of a Shiny App that Analyzes Sentiments and Produces Wordcloud of Sentiments - J. D. Freeman</li>
